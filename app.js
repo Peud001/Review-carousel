@@ -1,16 +1,16 @@
-var reviews = [
+const reviews = [
     {   id: 1,
-        name:"Solomon Udofia",
+        name:"PeaU Udofia",
         job: "Web developer",
         text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet molestias totam saepe voluptatem cupiditate ipsa laborum consequatur magnam tenetur repellat provident assumenda, aspernatur unde! Sequi, inventore sed! Ratione, dolorem id.",
-        img: "img/001b.jpg"
+        img: "img/a2.jpg"
     },
     {
         id: 2,
         name: "Zoya Mosh",
         job: "Graphic designer",
         text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet molestias totam saepe voluptatem cupiditate ipsa laborum consequatur magnam tenetur repellat provident assumenda, aspernatur unde! Sequi, inventore sed! Ratione, dolorem id.Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        img: "img/a2.jpg"
+        img: "img/a4.jpg"
     },
     {
         id: 3,
